@@ -2,7 +2,7 @@
 
 ## Parte 1
 
-* [enlace en línea](./parte1/parte1doc.md)
+* [enlace en línea](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte1/parte1doc.html)
 * 
 
 ## Parte 2
