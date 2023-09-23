@@ -24,7 +24,7 @@
 
 * [enlace en línea](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte1/parte5doc.html)
 * [enlace en línea](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte1/parte5pres.html)
-* [enlace en línea](/parte5/ejemploJS/index.html)
+* [pagina](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte5/ejemploJS/index.html)
 
 ## Parte 6
 
