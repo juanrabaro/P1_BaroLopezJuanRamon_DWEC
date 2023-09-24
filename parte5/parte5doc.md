@@ -30,6 +30,6 @@ Con CSS puedes creas reglas sobre los elementos del HTML al que está vinculado 
 
 ## 2. Creación de una pequeña aplicación web integrando código JavaScript de diferentes maneras
 
-[Ejemplo javascript](../parte5/ejemploJS/index.html)
+[Ejemplo javascript](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte5/ejemploJS/index.html)
 
 La página web se encuentra en la carpeta llamada **ejemploJS** que se encuentra en este directorio.
