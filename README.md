@@ -29,4 +29,4 @@
 ## Parte 6
 
 * [enlace en línea](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte1/parte6doc.html)
-* [enlace en línea](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte1/parte6pres.html)
+* [enlace](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte6/parte6pres.html)
