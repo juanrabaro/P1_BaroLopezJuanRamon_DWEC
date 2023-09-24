@@ -28,5 +28,5 @@
 
 ## Parte 6
 
-* [documentación](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte6/parte6doc.html)
+* [documentación](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte6/parte6doc.md)
 * [presentación](https://juanrabaro.github.io/P1_BaroLopezJuanRamon_DWEC/parte6/parte6presentacion.html)
